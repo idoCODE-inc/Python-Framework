@@ -1,2 +1,4 @@
 # Python-Framework
-Little Framework (not finished)
+Little Framework (finished)
+
+This reads .bin files.
